@@ -69,8 +69,10 @@ and the Final Heat Map which only showing total death, would be like this,
 ![heatmap_totaldeath.jpg](/images/heatmap_totaldeath.jpg)
 *full line of code at [covid-map.ipynb](https://github.com/mariobgsp/covid-map/blob/main/covidmap1.ipynb)*
 
-```End Line of Code
+```
+End Line of Code
 
-mariobgsp, newbie to programming worlds
-
-November, 2020
+mariobgsp 
+newbie to programming worlds
+November 2020
+```
