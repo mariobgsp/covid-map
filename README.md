@@ -56,7 +56,7 @@ Generating Base Map with Black and White colours to make heat map visualize bett
 ![baseforheat](/images/baseforheat.jpg)
 *full line of code at [covid-map.ipynb](https://github.com/mariobgsp/covid-map/blob/main/covidmap1.ipynb)*
 
-![generate_basemap_for_heatmap](/images/generate_basemap_for_heatmap.jpg)
+![generate_basemap_for_heatmap](/images/generating_basemap_for_heatmap.jpg)
 *full line of code at [covid-map.ipynb](https://github.com/mariobgsp/covid-map/blob/main/covidmap1.ipynb)*
 
 Now we're adding Circular Marker to Heat Map, line of code would be like this,
