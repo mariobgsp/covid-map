@@ -48,7 +48,8 @@ Datasets of longitude and latitude of every country you can get in [here](https:
 *full line of code at [covid-map.ipynb](https://github.com/mariobgsp/covid-map/blob/main/covidmap1.ipynb)*
 
 Choropleth map with circular marker will look like this, the circular markers describe Total Confirmed Case & Total Recovered in every country.
-![choropleth_with_cm](/images/choropleth_with_cm.jpg)
+![choropeth_with_cm](/images/chloropeth_with_cm.jpg)
+*full line of code at [covid-map.ipynb](https://github.com/mariobgsp/covid-map/blob/main/covidmap1.ipynb)*
 
 #### Generating Heat Map
 Generating Base Map with Black and White colours to make heat map visualize better, and adding a heat map layer, the line of code would be like this, 
